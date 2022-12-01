@@ -1,0 +1,15 @@
+C:\GitL1\Examples\Example003_sum\bin\Debug\net6.0\Example003_sum.exe
+C:\GitL1\Examples\Example003_sum\bin\Debug\net6.0\Example003_sum.deps.json
+C:\GitL1\Examples\Example003_sum\bin\Debug\net6.0\Example003_sum.runtimeconfig.json
+C:\GitL1\Examples\Example003_sum\bin\Debug\net6.0\Example003_sum.dll
+C:\GitL1\Examples\Example003_sum\bin\Debug\net6.0\Example003_sum.pdb
+C:\GitL1\Examples\Example003_sum\obj\Debug\net6.0\Example003_sum.csproj.AssemblyReference.cache
+C:\GitL1\Examples\Example003_sum\obj\Debug\net6.0\Example003_sum.GeneratedMSBuildEditorConfig.editorconfig
+C:\GitL1\Examples\Example003_sum\obj\Debug\net6.0\Example003_sum.AssemblyInfoInputs.cache
+C:\GitL1\Examples\Example003_sum\obj\Debug\net6.0\Example003_sum.AssemblyInfo.cs
+C:\GitL1\Examples\Example003_sum\obj\Debug\net6.0\Example003_sum.csproj.CoreCompileInputs.cache
+C:\GitL1\Examples\Example003_sum\obj\Debug\net6.0\Example003_sum.dll
+C:\GitL1\Examples\Example003_sum\obj\Debug\net6.0\refint\Example003_sum.dll
+C:\GitL1\Examples\Example003_sum\obj\Debug\net6.0\Example003_sum.pdb
+C:\GitL1\Examples\Example003_sum\obj\Debug\net6.0\Example003_sum.genruntimeconfig.cache
+C:\GitL1\Examples\Example003_sum\obj\Debug\net6.0\ref\Example003_sum.dll
